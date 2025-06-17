@@ -2,18 +2,21 @@
   "posts": [
     {
       "id": 1,
-      "title": "SMP"
+      "title": "Tiktok Donators"
     }
   ],
-  "donators": [
+  "comments": [
     {
       "id": 1,
-      "title": "@ducoskatoenplant🐱🛡️🍼"
+      "body": "@ducoskatoenplant🐱🛡️🍼",
+      "postId": 1
     },
     {
       "id": 2,
-      "title": "@Dennis"
+      "body": "@Dennis",
+      "postId": 1
     }
+  ],
   ],
   "profile": {
     "name": "cyuer47"
